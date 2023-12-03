@@ -19,8 +19,8 @@ MonoBehaviour:
   ModName: "\u5BA0\u7269"
   ModRootDir: Assets/Mods/tame_pet
   Author: birdinforest
-  LuaFilePatten: '{0}'
-  ModArchiveVersion: 0
+  LuaFilePatten: ka{0}
+  ModArchiveVersion: 1
   PlayerName: "\u5C0F\u867E\u7C73"
   PreloadedLua: []
   EnableSaveBigMapOnly: 0
